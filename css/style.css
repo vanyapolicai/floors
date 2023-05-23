@@ -1180,7 +1180,7 @@ html {
     }
 }
 
-@media (max-width: 361px) {
+@media (max-width: 420px) {
     .container {
         max-width: 340px;
     }
@@ -1222,7 +1222,7 @@ html {
     }
 
     .service__privileges-img {
-        right: 58px;
+        right: 34%;
     }
 
     .service__privileges-text {
@@ -1326,6 +1326,7 @@ html {
     .guarantee__info-list {
         padding: 20px 34px 50px 44px;
         margin: 0;
+        width: 340px;
     }
 
     .guarantee__info-item {
@@ -1393,11 +1394,11 @@ html {
     }
 
     .peculiarities__content-bg {
-        left: 141px;
+        left: 146px;
     }
 
     .peculiarities__content-number {
-        left: 156px;
+        left: 163px;
     }
 
     .peculiarities__bottom {
