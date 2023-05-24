@@ -18,6 +18,10 @@ html {
     display: block;
 }
 
+body{
+    margin: 0;
+}
+
 .container {
     width: 1160px;
     margin: 0 auto;
